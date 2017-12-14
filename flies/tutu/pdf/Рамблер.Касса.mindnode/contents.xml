@@ -1,0 +1,3789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<true/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{1.000, 1.000, 1.000, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<false/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{339.38024578013437, -145.97970550968307}</string>
+				<key>nodeID</key>
+				<string>838BD508-E7D6-4E8F-B554-29F890A64A0C</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{541.38024578013437, -863.47970550968307}</string>
+						<key>nodeID</key>
+						<string>5E4C261D-815B-4F5C-8767-EC1F86564433</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -887.97970550968307}</string>
+								<key>nodeID</key>
+								<string>D13CF85A-2FEC-4A72-A995-2585653580DC</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Дата&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1044 \u1072 \u1090 \u1072 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -838.97970550968307}</string>
+								<key>nodeID</key>
+								<string>FDA18DFB-2F8A-4C34-82CB-6A621A23FA34</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Время&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042 \u1088 \u1077 \u1084 \u1103 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Дата&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1044 \u1072 \u1090 \u1072 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{541.38024578013437, -691.97970550968307}</string>
+						<key>nodeID</key>
+						<string>7053BEFE-7225-48BF-A23C-48D01CA03918</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{692.38024578013437, -789.97970550968307}</string>
+								<key>nodeID</key>
+								<string>843429BE-0AD9-4D2A-A67D-DE458898CCC1</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Кинотеатр&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1080 \u1085 \u1086 \u1090 \u1077 \u1072 \u1090 \u1088 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{692.38024578013437, -740.97970550968307}</string>
+								<key>nodeID</key>
+								<string>7BC44BDF-1C24-42F3-8EB0-8C5946DA1578</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Театр&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1077 \u1072 \u1090 \u1088 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{692.38024578013437, -691.97970550968307}</string>
+								<key>nodeID</key>
+								<string>22154B28-6B4C-41DB-A804-8663ADA7B971</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Концертный зал&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1086 \u1085 \u1094 \u1077 \u1088 \u1090 \u1085 \u1099 \u1081  \u1079 \u1072 \u1083 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{692.38024578013437, -642.97970550968307}</string>
+								<key>nodeID</key>
+								<string>44F3F7D3-8D66-4F0D-914D-42E57B8EC224</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Музей&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1052 \u1091 \u1079 \u1077 \u1081 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{692.38024578013437, -593.97970550968307}</string>
+								<key>nodeID</key>
+								<string>0C571DF1-54F2-44C8-A3DB-F3DBB9711A42</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Выставочная площадка&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042 \u1099 \u1089 \u1090 \u1072 \u1074 \u1086 \u1095 \u1085 \u1072 \u1103  \u1087 \u1083 \u1086 \u1097 \u1072 \u1076 \u1082 \u1072 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Площадка&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1055 \u1083 \u1086 \u1097 \u1072 \u1076 \u1082 \u1072 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{541.38024578013437, -414.97970550968307}</string>
+						<key>nodeID</key>
+						<string>77B289F9-B4DF-4930-A3F7-A8A631C01BA6</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -544.97970550968307}</string>
+								<key>nodeID</key>
+								<string>4779C68E-D4CB-4E57-B016-C605FB1CDA2B</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Город&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1043 \u1086 \u1088 \u1086 \u1076 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -495.97970550968307}</string>
+								<key>nodeID</key>
+								<string>601ACFB2-4EB8-413A-A67C-ECCB24CCE36A</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Район&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1056 \u1072 \u1081 \u1086 \u1085 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -446.97970550968307}</string>
+								<key>nodeID</key>
+								<string>3EAADA91-302E-452D-868D-D2F3D0474F75</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Метро&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1052 \u1077 \u1090 \u1088 \u1086 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -397.97970550968307}</string>
+								<key>nodeID</key>
+								<string>5C61A229-6F20-4D7F-88D5-99469A95501D</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Адрес&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1040 \u1076 \u1088 \u1077 \u1089 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -348.97970550968307}</string>
+								<key>nodeID</key>
+								<string>8E71E28B-E822-4107-AAA7-B8A6B70507F1</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Текущее местоположение&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1077 \u1082 \u1091 \u1097 \u1077 \u1077  \u1084 \u1077 \u1089 \u1090 \u1086 \u1087 \u1086 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1077 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{671.38024578013437, -292.47970550968307}</string>
+								<key>nodeID</key>
+								<string>87C203B3-C4FF-47A5-94F6-86BBF99D3669</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{804.38024578013437, -299.97970550968307}</string>
+										<key>nodeID</key>
+										<string>D3C761EB-D1A0-450D-8721-1A960094ACBD</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;в радиусе нескольких километров от текущего местоположения&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1074  \u1088 \u1072 \u1076 \u1080 \u1091 \u1089 \u1077  \u1085 \u1077 \u1089 \u1082 \u1086 \u1083 \u1100 \u1082 \u1080 \u1093  \u1082 \u1080 \u1083 \u1086 \u1084 \u1077 \u1090 \u1088 \u1086 \u1074  \u1086 \u1090  \u1090 \u1077 \u1082 \u1091 \u1097 \u1077 \u1075 \u1086  \u1084 \u1077 \u1089 \u1090 \u1086 \u1087 \u1086 \u1083 \u1086 \u1078 \u1077 \u1085 \u1080 \u1103 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Вблизи&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042 \u1073 \u1083 \u1080 \u1079 \u1080 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Гео&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1043 \u1077 \u1086 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{541.38024578013437, 180.52029449031693}</string>
+						<key>nodeID</key>
+						<string>0497B5BE-422E-4125-A158-642E20430DF6</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{683.38024578013437, 180.52029449031693}</string>
+								<key>nodeID</key>
+								<string>048BA456-1EB0-46ED-9E96-948CC3F40DD7</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{813.38024578013437, 82.520294490316928}</string>
+										<key>nodeID</key>
+										<string>3F01D0C3-EBDA-488A-8306-2A94241DE64C</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{943.38024578013437, -186.97970550968307}</string>
+												<key>nodeID</key>
+												<string>433CC7B6-A327-4290-B5B7-CD2E56FA88EA</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1073.3802457801344, -235.97970550968307}</string>
+														<key>nodeID</key>
+														<string>32B52DEE-6608-44C6-B562-A730A2ECC63A</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Русский&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1056 \u1091 \u1089 \u1089 \u1082 \u1080 \u1081 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1073.3802457801344, -186.97970550968307}</string>
+														<key>nodeID</key>
+														<string>040A3759-8208-4058-80E1-54AE5219884A</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Иностранный&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1048 \u1085 \u1086 \u1089 \u1090 \u1088 \u1072 \u1085 \u1085 \u1099 \u1081 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1073.3802457801344, -137.97970550968307}</string>
+														<key>nodeID</key>
+														<string>0DFEAF21-1C41-4A78-B9BE-6520E70A8E95</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Субтитры&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1057 \u1091 \u1073 \u1090 \u1080 \u1090 \u1088 \u1099 }</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Язык&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1071 \u1079 \u1099 \u1082 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{943.38024578013437, -15.479705509683072}</string>
+												<key>nodeID</key>
+												<string>59C7159C-2945-4044-8A94-B0C011FB22CC</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1103.3802457801344, -88.979705509683072}</string>
+														<key>nodeID</key>
+														<string>0BEE9685-E065-4F02-A19C-C880F50AA5EE</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;2D&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 2D}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1103.3802457801344, -39.979705509683072}</string>
+														<key>nodeID</key>
+														<string>8DB5EDD9-4783-4092-9550-1DA3AA454A1B</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;3D&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 3D}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1103.3802457801344, 9.0202944903169282}</string>
+														<key>nodeID</key>
+														<string>4D6ECD7F-92DA-426F-ACF2-476A56B00C18</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;4DX&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 4DX}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1103.3802457801344, 58.020294490316928}</string>
+														<key>nodeID</key>
+														<string>AF9007A3-3798-4EA1-9EF4-20CFE7F17968</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;RealD&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 RealD}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Тип фильма&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087  \u1092 \u1080 \u1083 \u1100 \u1084 \u1072 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{943.38024578013437, 156.02029449031693}</string>
+												<key>nodeID</key>
+												<string>4B26B260-1764-4681-9BCB-E6BC1156ED58</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1073.3802457801344, 131.52029449031693}</string>
+														<key>nodeID</key>
+														<string>52FF76D8-EE90-4554-877D-5529B1FC0252</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<false/>
+																<key>isDrawingFill</key>
+																<true/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1215.3802457801344, 107.02029449031693}</string>
+																<key>nodeID</key>
+																<string>73100FE2-922B-4490-BAB0-4652E0376117</string>
+																<key>strokeColor</key>
+																<string>{0.500, 0.500, 0.500, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;IMAX&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 IMAX}</string>
+																</dict>
+															</dict>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<false/>
+																<key>isDrawingFill</key>
+																<true/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1215.3802457801344, 156.02029449031693}</string>
+																<key>nodeID</key>
+																<string>6D2AF85A-B702-4295-97E7-BE86006CE79B</string>
+																<key>strokeColor</key>
+																<string>{0.500, 0.500, 0.500, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Обычный&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1054 \u1073 \u1099 \u1095 \u1085 \u1099 \u1081 }</string>
+																</dict>
+															</dict>
+														</array>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Тип зала&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087  \u1079 \u1072 \u1083 \u1072 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1073.3802457801344, 205.02029449031693}</string>
+														<key>nodeID</key>
+														<string>FD53043C-87AC-404C-8822-6064D4C12E31</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Места&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1052 \u1077 \u1089 \u1090 \u1072 }</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Зал&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1047 \u1072 \u1083 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{943.38024578013437, 327.52029449031693}</string>
+												<key>nodeID</key>
+												<string>49E9D129-BC5A-4843-A55B-DEAAF4686BE4</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1095.3802457801344, 254.02029449031693}</string>
+														<key>nodeID</key>
+														<string>3A876DA6-0B17-457C-94E9-04F0DABFB526</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Боевик&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1041 \u1086 \u1077 \u1074 \u1080 \u1082 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1095.3802457801344, 303.02029449031693}</string>
+														<key>nodeID</key>
+														<string>FC7C9F03-3CDB-4291-A11D-87352DBA6729</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Приключения&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1055 \u1088 \u1080 \u1082 \u1083 \u1102 \u1095 \u1077 \u1085 \u1080 \u1103 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1095.3802457801344, 352.02029449031693}</string>
+														<key>nodeID</key>
+														<string>C02EA343-3468-4D75-91D0-E4ECBC97DF3D</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Фантастика&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1060 \u1072 \u1085 \u1090 \u1072 \u1089 \u1090 \u1080 \u1082 \u1072 }</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<false/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{1095.3802457801344, 401.02029449031693}</string>
+														<key>nodeID</key>
+														<string>83A96BAF-6042-4EBC-A6DC-EB7380E6CA0D</string>
+														<key>strokeColor</key>
+														<string>{0.500, 0.500, 0.500, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>1</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;    …&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2     \'85}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Категория&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1072 \u1090 \u1077 \u1075 \u1086 \u1088 \u1080 \u1103 }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Кино&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1080 \u1085 \u1086 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{813.38024578013437, 450.02029449031693}</string>
+										<key>nodeID</key>
+										<string>7B487F06-3513-4F1F-9947-D69FE5CD5989</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Спектакль&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1057 \u1087 \u1077 \u1082 \u1090 \u1072 \u1082 \u1083 \u1100 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{813.38024578013437, 499.02029449031693}</string>
+										<key>nodeID</key>
+										<string>BDA4BA67-315E-44DA-BEE7-EE7C427EF56A</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Выставка&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042 \u1099 \u1089 \u1090 \u1072 \u1074 \u1082 \u1072 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{813.38024578013437, 548.02029449031693}</string>
+										<key>nodeID</key>
+										<string>984EEC53-D5A9-4368-A27D-22FF6505D827</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Концерт&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1086 \u1085 \u1094 \u1077 \u1088 \u1090 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{813.38024578013437, 597.02029449031693}</string>
+										<key>nodeID</key>
+										<string>6973AE48-2F54-463C-BE2B-E6FBF1D98866</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Спортивные мероприятия&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1057 \u1087 \u1086 \u1088 \u1090 \u1080 \u1074 \u1085 \u1099 \u1077  \u1084 \u1077 \u1088 \u1086 \u1087 \u1088 \u1080 \u1103 \u1090 \u1080 \u1103 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Тип&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Событие&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1057 \u1086 \u1073 \u1099 \u1090 \u1080 \u1077 }</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(0, 0, 0, 1.000000); font: 13px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;Критерии выбора&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \AppleTypeServices\AppleTypeServicesF393216 \cf0 \uc0\u1050 \u1088 \u1080 \u1090 \u1077 \u1088 \u1080 \u1080  \u1074 \u1099 \u1073 \u1086 \u1088 \u1072 }</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<false/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{1541.1717552441705, -328.04110532387966}</string>
+				<key>nodeID</key>
+				<string>487831FF-2A82-4F21-8733-F1638D5C002E</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1699.1717552441705, -426.04110532387966}</string>
+						<key>nodeID</key>
+						<string>02ECB177-0DD6-4375-9BB6-F728AC34F5F9</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Банковская карта&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1041 \u1072 \u1085 \u1082 \u1086 \u1074 \u1089 \u1082 \u1072 \u1103  \u1082 \u1072 \u1088 \u1090 \u1072 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1699.1717552441705, -377.04110532387966}</string>
+						<key>nodeID</key>
+						<string>9D056032-BB26-4B4C-9E67-A11739CA9BBD</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;PayPal (скидка 10%)&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 PayPal (\uc0\u1089 \u1082 \u1080 \u1076 \u1082 \u1072  10%)}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1699.1717552441705, -328.04110532387966}</string>
+						<key>nodeID</key>
+						<string>9B9FA373-A45C-446A-849F-1DBF7F1244C7</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Альфа-Клик&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1040 \u1083 \u1100 \u1092 \u1072 -\u1050 \u1083 \u1080 \u1082 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1699.1717552441705, -279.04110532387966}</string>
+						<key>nodeID</key>
+						<string>B55272EA-CAF7-447A-BA46-A581D64C99D0</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;WebMoney&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 WebMoney}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1699.1717552441705, -230.04110532387966}</string>
+						<key>nodeID</key>
+						<string>2F2219AC-7F25-41CF-BFEA-CA041E1187C1</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Мобильный телефон&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1052 \u1086 \u1073 \u1080 \u1083 \u1100 \u1085 \u1099 \u1081  \u1090 \u1077 \u1083 \u1077 \u1092 \u1086 \u1085 }</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Тип оплаты&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087  \u1086 \u1087 \u1083 \u1072 \u1090 \u1099 }</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<false/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{1523.5306971160692, 158.17396034867352}</string>
+				<key>nodeID</key>
+				<string>CCEC5222-4E34-4FEF-8B05-330269FC2B85</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1696.5306971160692, -86.826039651326482}</string>
+						<key>nodeID</key>
+						<string>0AEA9A4D-278A-47B9-9FDC-76239CA0BD57</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Не важно&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1053 \u1077  \u1074 \u1072 \u1078 \u1085 \u1086 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1696.5306971160692, -37.826039651326482}</string>
+						<key>nodeID</key>
+						<string>06B4B182-69E7-429A-95FA-F047584104C6</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Прямо сейчас&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1055 \u1088 \u1103 \u1084 \u1086  \u1089 \u1077 \u1081 \u1095 \u1072 \u1089 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1696.5306971160692, 60.173960348673518}</string>
+						<key>nodeID</key>
+						<string>AB8CCC09-64FB-4226-9F07-CF5293856506</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1906.5306971160692, 11.173960348673518}</string>
+								<key>nodeID</key>
+								<string>E300B181-10AD-48D5-BFB3-15E3B4FB8F50</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;через 15 минут&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1095 \u1077 \u1088 \u1077 \u1079  15 \u1084 \u1080 \u1085 \u1091 \u1090 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1906.5306971160692, 60.173960348673518}</string>
+								<key>nodeID</key>
+								<string>C22C7521-87E1-44DC-B8BD-79B15D3748DC</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;через 30 минут&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1095 \u1077 \u1088 \u1077 \u1079  30 \u1084 \u1080 \u1085 \u1091 \u1090 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1906.5306971160692, 109.17396034867352}</string>
+								<key>nodeID</key>
+								<string>14C03DFF-64FC-46B1-9A05-779707A35406</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;через 1—2 часа&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1095 \u1077 \u1088 \u1077 \u1079  1\'972 \u1095 \u1072 \u1089 \u1072 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".AppleSystemUIFont"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".AppleSystemUIFont"; '&gt;В ближайшее время&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red64\green64\blue64;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042  \u1073 \u1083 \u1080 \u1078 \u1072 \u1081 \u1096 \u1077 \u1077  \u1074 \u1088 \u1077 \u1084 \u1103 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1696.5306971160692, 231.67396034867352}</string>
+						<key>nodeID</key>
+						<string>44E1020E-A4BD-43C0-AC4C-AFABFCB7AEEF</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1859.5306971160692, 158.17396034867352}</string>
+								<key>nodeID</key>
+								<string>0E57B1A6-D820-436B-96C4-7A0955362A2A</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{1989.5306971160692, 158.17396034867352}</string>
+										<key>nodeID</key>
+										<string>B722DFAC-D9B0-42E7-AB80-DFCA53BBF0C5</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;с 5 до 12&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1089  5 \u1076 \u1086  12}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;утро&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1091 \u1090 \u1088 \u1086 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1859.5306971160692, 207.17396034867352}</string>
+								<key>nodeID</key>
+								<string>F5BBE46E-69BD-41AF-9B22-454824A63ACC</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{1989.5306971160692, 207.17396034867352}</string>
+										<key>nodeID</key>
+										<string>1C53F715-E8B7-4594-930E-9083BF3F25C2</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;c 12 до 17&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 c 12 \uc0\u1076 \u1086  17}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;день&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1076 \u1077 \u1085 \u1100 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1859.5306971160692, 256.17396034867352}</string>
+								<key>nodeID</key>
+								<string>BF540258-3A7D-495E-BFD8-0E2000F60E03</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{1989.5306971160692, 256.17396034867352}</string>
+										<key>nodeID</key>
+										<string>88CF7A6F-84C5-4518-A2CF-DF5EB8542D67</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;c 17 до 22&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 c 17 \uc0\u1076 \u1086  22}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;вечер&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1074 \u1077 \u1095 \u1077 \u1088 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1859.5306971160692, 305.17396034867352}</string>
+								<key>nodeID</key>
+								<string>4757EB2D-E22C-4D4E-AD55-611ECAE36D34</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{1989.5306971160692, 305.17396034867352}</string>
+										<key>nodeID</key>
+										<string>31380F48-14F2-41FE-B1BA-E0D6BEF9BE7A</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;с 22 до 5&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1089  22 \u1076 \u1086  5}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;ночь&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1085 \u1086 \u1095 \u1100 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;время суток&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1074 \u1088 \u1077 \u1084 \u1103  \u1089 \u1091 \u1090 \u1086 \u1082 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{1696.5306971160692, 378.67396034867352}</string>
+						<key>nodeID</key>
+						<string>135CD80B-D000-4136-8FCD-3768C78E6F8D</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1860.5306971160692, 354.17396034867352}</string>
+								<key>nodeID</key>
+								<string>95C318C9-57F1-4100-8D53-11D149A1C5BB</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;выходные и праздничные дни&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1074 \u1099 \u1093 \u1086 \u1076 \u1085 \u1099 \u1077  \u1080  \u1087 \u1088 \u1072 \u1079 \u1076 \u1085 \u1080 \u1095 \u1085 \u1099 \u1077  \u1076 \u1085 \u1080 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{1860.5306971160692, 403.17396034867352}</string>
+								<key>nodeID</key>
+								<string>47594FC7-D027-4BEF-8EFC-3FFDD4094164</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;будние дни&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1073 \u1091 \u1076 \u1085 \u1080 \u1077  \u1076 \u1085 \u1080 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; text-align: left; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;день недели&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1076 \u1077 \u1085 \u1100  \u1085 \u1077 \u1076 \u1077 \u1083 \u1080 }</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Время сеанса&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1042 \u1088 \u1077 \u1084 \u1103  \u1089 \u1077 \u1072 \u1085 \u1089 \u1072 }</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<false/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{2356.7217261329506, 128.72368477536008}</string>
+				<key>nodeID</key>
+				<string>90CA77B1-B588-420A-8357-1113CFFB1693</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>1</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{2486.7217261329506, -140.77631522463992}</string>
+						<key>nodeID</key>
+						<string>719B7A40-9D09-4247-8667-F51D282392FE</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2616.7217261329506, -238.77631522463992}</string>
+								<key>nodeID</key>
+								<string>4822EA5C-C638-4B17-A4DB-63F757DEE8DA</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Русский&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1056 \u1091 \u1089 \u1089 \u1082 \u1080 \u1081 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2616.7217261329506, -189.77631522463992}</string>
+								<key>nodeID</key>
+								<string>F86D3928-25A6-46E5-B498-E9E27168D9F2</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Иностранный&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1048 \u1085 \u1086 \u1089 \u1090 \u1088 \u1072 \u1085 \u1085 \u1099 \u1081 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2616.7217261329506, -91.776315224639916}</string>
+								<key>nodeID</key>
+								<string>D9F05E85-B1FD-461A-97C1-7F1D3A5544BB</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{2764.7217261329506, -116.27631522463992}</string>
+										<key>nodeID</key>
+										<string>2336DF6E-884E-46EB-9AE8-36CDCB4980D7</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{2906.7217261329506, -140.77631522463992}</string>
+												<key>nodeID</key>
+												<string>46721D53-9990-466A-97B4-EB6CCC5E5C38</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Присутствуют&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1055 \u1088 \u1080 \u1089 \u1091 \u1090 \u1089 \u1090 \u1074 \u1091 \u1102 \u1090 }</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<false/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{2906.7217261329506, -91.776315224639916}</string>
+												<key>nodeID</key>
+												<string>0BBAEA15-846A-40A5-97FF-A9A4E9631CCC</string>
+												<key>strokeColor</key>
+												<string>{0.500, 0.500, 0.500, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>1</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Отсутствуют&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1054 \u1090 \u1089 \u1091 \u1090 \u1089 \u1090 \u1074 \u1091 \u1102 \u1090 }</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Наличие&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1053 \u1072 \u1083 \u1080 \u1095 \u1080 \u1077 }</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{2764.7217261329506, -42.776315224639916}</string>
+										<key>nodeID</key>
+										<string>B4BBCEDB-4666-4C5E-B171-15ED17A6A8B5</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Язык субтитров&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1071 \u1079 \u1099 \u1082  \u1089 \u1091 \u1073 \u1090 \u1080 \u1090 \u1088 \u1086 \u1074 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Субтитры&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1057 \u1091 \u1073 \u1090 \u1080 \u1090 \u1088 \u1099 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Язык&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1071 \u1079 \u1099 \u1082 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{2486.7217261329506, 79.723684775360084}</string>
+						<key>nodeID</key>
+						<string>D70A80E5-78EC-41ED-AB77-33BBD308B0B9</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2646.7217261329506, 6.2236847753600841}</string>
+								<key>nodeID</key>
+								<string>7F8CC50B-C45C-49E4-9F45-84BA58D5F0F3</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;2D&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 2D}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2646.7217261329506, 55.223684775360084}</string>
+								<key>nodeID</key>
+								<string>8D085281-CF82-4170-9625-D56F168DB1B6</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;3D&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 3D}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2646.7217261329506, 104.22368477536008}</string>
+								<key>nodeID</key>
+								<string>1A320E30-C072-4FDF-9A02-5BB171F3D80B</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;4DX&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 4DX}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2646.7217261329506, 153.22368477536008}</string>
+								<key>nodeID</key>
+								<string>592D3516-9A9E-4069-A194-CE6B274B97DA</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;RealD&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 RealD}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Тип фильма&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087  \u1092 \u1080 \u1083 \u1100 \u1084 \u1072 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{2486.7217261329506, 251.22368477536008}</string>
+						<key>nodeID</key>
+						<string>13BF198D-255F-493C-88DD-A4F8BEDD6F28</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2616.7217261329506, 226.72368477536008}</string>
+								<key>nodeID</key>
+								<string>9238F2F4-A52D-4C79-A0B3-94D74CEB4E3E</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{2758.7217261329506, 202.22368477536008}</string>
+										<key>nodeID</key>
+										<string>5C056FF2-7D92-4B90-9D9B-C8019548300A</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;IMAX&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 IMAX}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<false/>
+										<key>isDrawingFill</key>
+										<true/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{2758.7217261329506, 251.22368477536008}</string>
+										<key>nodeID</key>
+										<string>9A8D91CD-B2D7-44CE-ABD2-6CD24ADF06B9</string>
+										<key>strokeColor</key>
+										<string>{0.500, 0.500, 0.500, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>1</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Обычный&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1054 \u1073 \u1099 \u1095 \u1085 \u1099 \u1081 }</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Тип зала&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1058 \u1080 \u1087  \u1079 \u1072 \u1083 \u1072 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2616.7217261329506, 300.22368477536008}</string>
+								<key>nodeID</key>
+								<string>1F595BE5-A71B-41E9-B195-EFB71F015882</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Места&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1052 \u1077 \u1089 \u1090 \u1072 }</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Зал&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1047 \u1072 \u1083 }</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<false/>
+						<key>isDrawingFill</key>
+						<true/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{2486.7217261329506, 422.72368477536008}</string>
+						<key>nodeID</key>
+						<string>26E1E518-66A6-4164-99AE-67DE5EA173BC</string>
+						<key>strokeColor</key>
+						<string>{0.500, 0.500, 0.500, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>1</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2638.7217261329506, 349.22368477536008}</string>
+								<key>nodeID</key>
+								<string>D6AC3DC1-598D-40BA-95EB-F8E956272EBC</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Боевик&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1041 \u1086 \u1077 \u1074 \u1080 \u1082 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2638.7217261329506, 398.22368477536008}</string>
+								<key>nodeID</key>
+								<string>0D71C52E-3752-43D7-B50F-19FB1C06B1D4</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Приключения&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1055 \u1088 \u1080 \u1082 \u1083 \u1102 \u1095 \u1077 \u1085 \u1080 \u1103 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2638.7217261329506, 447.22368477536008}</string>
+								<key>nodeID</key>
+								<string>897E0DA4-BDCF-4C07-BBDA-0DD04F8B19AD</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Фантастика&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1060 \u1072 \u1085 \u1090 \u1072 \u1089 \u1090 \u1080 \u1082 \u1072 }</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<false/>
+								<key>isDrawingFill</key>
+								<true/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{2638.7217261329506, 496.22368477536008}</string>
+								<key>nodeID</key>
+								<string>C550FA75-F662-4B1C-A2C4-90FA2A3F36CF</string>
+								<key>strokeColor</key>
+								<string>{0.500, 0.500, 0.500, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>1</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;    …&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2     \'85}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Категория&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1072 \u1090 \u1077 \u1075 \u1086 \u1088 \u1080 \u1103 }</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(63, 63, 63, 1.000000); font: 12px ".SF NS Text"; -cocoa-font-features: 6/0; -cocoa-font-postscriptname: ".SFNSText-Regular"; '&gt;Кино&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
+{\fonttbl\f0\fnil\fcharset0 .SFNSText-Regular;}
+{\colortbl;\red255\green255\blue255;\red63\green63\blue63;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs24 \AppleTypeServices\AppleTypeServicesF393216 \cf2 \uc0\u1050 \u1080 \u1085 \u1086 }</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKfkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26GkoSbnISX
+	lwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpJcAhpKEmZkUTlNWZXJ0aWNh
+	bGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5OU0JvdHRv
+	bU1hcmdpboaSqYaG
+	</data>
+	<key>title</key>
+	<string>Рамблер.Касса</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
