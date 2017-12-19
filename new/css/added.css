@@ -319,7 +319,7 @@ color: #222222;
 font-weight: 800;
 }
 .title-preview .black {
-font-weight: 800;
+font-weight: black;
 }
 .title-preview .normal {
 font-weight: 400;
@@ -575,6 +575,9 @@ line-height: 1.25;
 letter-spacing: normal;
 text-align: left;
 text-decoration: none;
+color: #033EB4;
+}
+a.link:default {
 color: #033EB4;
 }
 a.link:hover {

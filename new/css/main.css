@@ -45,7 +45,7 @@ a:active{color:#53e3fb!important}
 }
 body {
   -webkit-font-smoothing: antialiased;
-  background-color: #B3BDD9;
+  background-color: #B3BDD9 !important;
 }
 /*text*/
 .heading {
@@ -190,7 +190,7 @@ div.logo {
 	font-weight: 800;
   color: #033EB4;
 }
-a.nav-link2 {
+a.nav-link2:default {
 	color:#6E00FF;
 }
 a.nav-link2:hover {
@@ -199,7 +199,7 @@ a.nav-link2:hover {
 a.nav-link2:active {
 	color:#3800E0;
 }
-a.nav-link3 {
+a.nav-link3:default {
 	color:#033EB4;
 }
 a.nav-link3:hover {
@@ -290,10 +290,10 @@ a.nav-link3:active {
 .centerdevices,
 .sidedevices {
   position: relative;
-}
-.header {
+}.header {
 	padding: 40px 0;
 	overflow: hidden;
+  background-color:
 }
 .header .centerdevices {
 	margin: 90px 0 0;
